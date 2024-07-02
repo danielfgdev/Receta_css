@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: khaki;
+    align-items: center;
+    padding: 12px;
+}
+
+.divh1 {
+    display: flex;
+    gap: 20px;
+    align-items: center
+}
+
+.huevo {
+    font-size: 30px;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    font-family: monospace;
+    align-items: center;
+}
+
+.divnav {
+    display: flex;
+    gap: 15px;
+}
